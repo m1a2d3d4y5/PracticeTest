@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "o/n5qAzKRqHMIb9PVzW/VlmlPyqgDKBOhTQIopozS1uM6W5tOJr3627QAWXySEZg7aAyjJX4hyLuReeKPPXkKw==",
+  "success": true,
+  "projectFilePath": "E:\\New folder\\PraticeTest\\PracticeTest\\src\\PracticeTest.Core\\PracticeTest.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\ardalis.guardclauses\\4.0.0\\ardalis.guardclauses.4.0.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\ardalis.result\\3.1.2\\ardalis.result.3.1.2.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\ardalis.smartenum\\2.0.1\\ardalis.smartenum.2.0.1.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\ardalis.specification\\6.0.1\\ardalis.specification.6.0.1.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\jetbrains.annotations\\2021.2.0\\jetbrains.annotations.2021.2.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

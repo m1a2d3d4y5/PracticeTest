@@ -1,0 +1,37 @@
+D:\F\mine\ReactProject\GitFolder\PracticeTest\src\PracticeTest.SharedKernel\bin\Debug\net6.0\PracticeTest.SharedKernel.deps.json
+D:\F\mine\ReactProject\GitFolder\PracticeTest\src\PracticeTest.SharedKernel\bin\Debug\net6.0\PracticeTest.SharedKernel.dll
+D:\F\mine\ReactProject\GitFolder\PracticeTest\src\PracticeTest.SharedKernel\bin\Debug\net6.0\PracticeTest.SharedKernel.pdb
+D:\F\mine\ReactProject\GitFolder\PracticeTest\src\PracticeTest.SharedKernel\obj\Debug\net6.0\PracticeTest.SharedKernel.csproj.AssemblyReference.cache
+D:\F\mine\ReactProject\GitFolder\PracticeTest\src\PracticeTest.SharedKernel\obj\Debug\net6.0\PracticeTest.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+D:\F\mine\ReactProject\GitFolder\PracticeTest\src\PracticeTest.SharedKernel\obj\Debug\net6.0\PracticeTest.SharedKernel.AssemblyInfoInputs.cache
+D:\F\mine\ReactProject\GitFolder\PracticeTest\src\PracticeTest.SharedKernel\obj\Debug\net6.0\PracticeTest.SharedKernel.AssemblyInfo.cs
+D:\F\mine\ReactProject\GitFolder\PracticeTest\src\PracticeTest.SharedKernel\obj\Debug\net6.0\PracticeTest.SharedKernel.csproj.CoreCompileInputs.cache
+D:\F\mine\ReactProject\GitFolder\PracticeTest\src\PracticeTest.SharedKernel\obj\Debug\net6.0\PracticeTest.SharedKernel.dll
+D:\F\mine\ReactProject\GitFolder\PracticeTest\src\PracticeTest.SharedKernel\obj\Debug\net6.0\refint\PracticeTest.SharedKernel.dll
+D:\F\mine\ReactProject\GitFolder\PracticeTest\src\PracticeTest.SharedKernel\obj\Debug\net6.0\PracticeTest.SharedKernel.pdb
+D:\F\mine\ReactProject\GitFolder\PracticeTest\src\PracticeTest.SharedKernel\obj\Debug\net6.0\ref\PracticeTest.SharedKernel.dll
+D:\F\mine\ReactProject\GitFolder\PraticeTest\PracticeTest\src\PracticeTest.SharedKernel\bin\Debug\net6.0\PracticeTest.SharedKernel.deps.json
+D:\F\mine\ReactProject\GitFolder\PraticeTest\PracticeTest\src\PracticeTest.SharedKernel\bin\Debug\net6.0\PracticeTest.SharedKernel.dll
+D:\F\mine\ReactProject\GitFolder\PraticeTest\PracticeTest\src\PracticeTest.SharedKernel\bin\Debug\net6.0\PracticeTest.SharedKernel.pdb
+D:\F\mine\ReactProject\GitFolder\PraticeTest\PracticeTest\src\PracticeTest.SharedKernel\obj\Debug\net6.0\PracticeTest.SharedKernel.csproj.AssemblyReference.cache
+D:\F\mine\ReactProject\GitFolder\PraticeTest\PracticeTest\src\PracticeTest.SharedKernel\obj\Debug\net6.0\PracticeTest.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+D:\F\mine\ReactProject\GitFolder\PraticeTest\PracticeTest\src\PracticeTest.SharedKernel\obj\Debug\net6.0\PracticeTest.SharedKernel.AssemblyInfoInputs.cache
+D:\F\mine\ReactProject\GitFolder\PraticeTest\PracticeTest\src\PracticeTest.SharedKernel\obj\Debug\net6.0\PracticeTest.SharedKernel.AssemblyInfo.cs
+D:\F\mine\ReactProject\GitFolder\PraticeTest\PracticeTest\src\PracticeTest.SharedKernel\obj\Debug\net6.0\PracticeTest.SharedKernel.csproj.CoreCompileInputs.cache
+D:\F\mine\ReactProject\GitFolder\PraticeTest\PracticeTest\src\PracticeTest.SharedKernel\obj\Debug\net6.0\PracticeTest.SharedKernel.dll
+D:\F\mine\ReactProject\GitFolder\PraticeTest\PracticeTest\src\PracticeTest.SharedKernel\obj\Debug\net6.0\refint\PracticeTest.SharedKernel.dll
+D:\F\mine\ReactProject\GitFolder\PraticeTest\PracticeTest\src\PracticeTest.SharedKernel\obj\Debug\net6.0\PracticeTest.SharedKernel.pdb
+D:\F\mine\ReactProject\GitFolder\PraticeTest\PracticeTest\src\PracticeTest.SharedKernel\obj\Debug\net6.0\ref\PracticeTest.SharedKernel.dll
+E:\New folder\PraticeTest\PracticeTest\src\PracticeTest.SharedKernel\bin\Debug\net6.0\PracticeTest.SharedKernel.deps.json
+E:\New folder\PraticeTest\PracticeTest\src\PracticeTest.SharedKernel\bin\Debug\net6.0\PracticeTest.SharedKernel.dll
+E:\New folder\PraticeTest\PracticeTest\src\PracticeTest.SharedKernel\bin\Debug\net6.0\PracticeTest.SharedKernel.pdb
+E:\New folder\PraticeTest\PracticeTest\src\PracticeTest.SharedKernel\obj\Debug\net6.0\PracticeTest.SharedKernel.csproj.AssemblyReference.cache
+E:\New folder\PraticeTest\PracticeTest\src\PracticeTest.SharedKernel\obj\Debug\net6.0\PracticeTest.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\PraticeTest\PracticeTest\src\PracticeTest.SharedKernel\obj\Debug\net6.0\PracticeTest.SharedKernel.AssemblyInfoInputs.cache
+E:\New folder\PraticeTest\PracticeTest\src\PracticeTest.SharedKernel\obj\Debug\net6.0\PracticeTest.SharedKernel.AssemblyInfo.cs
+E:\New folder\PraticeTest\PracticeTest\src\PracticeTest.SharedKernel\obj\Debug\net6.0\PracticeTest.SharedKernel.csproj.CoreCompileInputs.cache
+E:\New folder\PraticeTest\PracticeTest\src\PracticeTest.SharedKernel\obj\Debug\net6.0\PracticeTest.SharedKernel.sourcelink.json
+E:\New folder\PraticeTest\PracticeTest\src\PracticeTest.SharedKernel\obj\Debug\net6.0\PracticeTest.SharedKernel.dll
+E:\New folder\PraticeTest\PracticeTest\src\PracticeTest.SharedKernel\obj\Debug\net6.0\refint\PracticeTest.SharedKernel.dll
+E:\New folder\PraticeTest\PracticeTest\src\PracticeTest.SharedKernel\obj\Debug\net6.0\PracticeTest.SharedKernel.pdb
+E:\New folder\PraticeTest\PracticeTest\src\PracticeTest.SharedKernel\obj\Debug\net6.0\ref\PracticeTest.SharedKernel.dll
