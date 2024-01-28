@@ -24,5 +24,5 @@ CREATE TABLE [dbo].[Employee](
 ) ON [PRIMARY]
 GO
 
-
-this is the query u have to create the table 
+We have followed Code First Approach 
+This is the query u have to create the table 
