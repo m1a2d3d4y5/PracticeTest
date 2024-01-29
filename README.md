@@ -25,4 +25,5 @@ CREATE TABLE [dbo].[Employee](
 GO
  
 I have used this query to make the table and used CODE FIRST Approach using MVC Clean Architecture. 
+The practice test is made by using MSSQL Server and Visual Studio 2022 on .net 6 Version . 
 
