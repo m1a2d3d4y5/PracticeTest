@@ -23,6 +23,6 @@ CREATE TABLE [dbo].[Employee](
 )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
 ) ON [PRIMARY]
 GO
+ 
+I have used this query to make the table and used CODE FIRST Approach using MVC Clean Architecture. 
 
-We have followed Code First Approach 
-This is the query u have to create the table 
